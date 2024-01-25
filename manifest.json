@@ -1,7 +1,7 @@
 {
     "name": "Formula1 Drivers",
     "version": "1.0.0",
-    "description": "1991 F1 Driver Rankings",
+    "description": "2022 F1 Driver Rankings",
     "manifest_version": 3,
     "authors": "Stan and Nick",
     "action": {
@@ -9,3 +9,5 @@
         "default_title": "Formula1 Drivers"
     }
 }
+
+

@@ -1,0 +1,26 @@
+@font-face{
+    src: url('./Formula1-Regular-1.ttf');
+    font-family: "F1Regular"
+}
+
+body{
+    font-family: "F1Regular", sans-serif
+}
+
+.hidden{
+    display: none
+}
+
+table, tr, th, td {
+    border: 1px solid rgb(120, 2, 2);
+    border-radius: 5px;
+}
+
+th, td {
+    width: 200px;
+    text-align: center;
+}
+
+img{
+    width:100%
+}
